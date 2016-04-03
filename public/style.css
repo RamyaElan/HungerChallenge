@@ -1,0 +1,22 @@
+html 					{ overflow-y:scroll; }
+body 					{ padding-top:50px; }
+#todo-list 				{ margin-bottom:30px; }
+#todo-form 	 			{ margin-bottom:50px; }
+body {
+    background-image: url("assets/Food.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.checkbox{
+	font-style: bold;
+	font-size: 20px;
+	
+	color: #421233;
+
+
+}
+
+h1{
+	color:#6666ff;
+}
+		
